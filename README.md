@@ -15,3 +15,6 @@ Includes Minnesota State Colleges and Universities, other executive branch emplo
 Excel spreadsheet in data folder with all employees except police. [mpls-02-15 - City employee info - no MPD.xlsx]
 
 Police salary data in separate Excel spreadsheet. [2012-MPD-Payroll.xlsx]
+
+###Hennepin County
+Excel spreadsheet in data folder [2012 Pioneer Press FINAL REPORT (MinnPost May 2013).xlsx]
