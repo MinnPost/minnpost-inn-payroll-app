@@ -18,3 +18,6 @@ Police salary data in separate Excel spreadsheet. [2012-MPD-Payroll.xlsx]
 
 ###Hennepin County
 Excel spreadsheet in data folder [2012 Pioneer Press FINAL REPORT (MinnPost May 2013).xlsx]
+
+###Ramsey County
+Excel spreadsheet in data folder [2012-HR-and-Pay-Data-Final-Format.xlsx]
