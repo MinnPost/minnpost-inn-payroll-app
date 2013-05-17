@@ -21,3 +21,6 @@ Excel spreadsheet in data folder [2012 Pioneer Press FINAL REPORT (MinnPost May 
 
 ###Ramsey County
 Excel spreadsheet in data folder [2012-HR-and-Pay-Data-Final-Format.xlsx]
+
+###City of St. Paul
+Excel spreadsheet in data folder [2012-city-of-st-paul-salaries.xlsx]
