@@ -1,6 +1,8 @@
 minnpost-inn-payroll-app
 ========================
 
+_*Note:* We started to collect data for this but ultimately decided against pursuing the project._ 
+
 ##Data sources
 
 ###Minnesota Management and Budget
